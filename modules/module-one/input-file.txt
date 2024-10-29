@@ -1,0 +1,3 @@
+esta eh a primeira linha desse arquivo.
+uma nova linha adiconada.
+escrevendo uma nova linha
